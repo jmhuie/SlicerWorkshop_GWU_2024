@@ -3,20 +3,27 @@
 This is the Github Repository for a two-day 3D Slicer workshop at the George Washington University in Spring 2024.
 
 Date & Time: Day 1: April 1st, 2024 (12:30-5:00pm); Day 2: April 3rd, 2024 (12:30-5:00pm)
+
 Location: SEH 6605
 
 ### Learning Objectives
 After this workshop you should be familiar with how to…
-L1.  Import CT scans from image stacks
-L2.  Visualize 3D data and generate graphics
-L3.  Segment CT scans and generate models
-L4.  Analyze and measure morphology 
-L5.  Use SlicerMorph for 3D geometric morphometrics
-L6.  Utilize resources to keep learning about 3D Slicer
+1. Import CT scans from image stacks
+2. Visualize 3D data and generate graphics
+3. Segment CT scans and generate models
+4. Analyze and measure morphology 
+5. Use SlicerMorph for 3D geometric morphometrics
+6. Utilize resources to keep learning about 3D Slicer
 
 ### Schedule 
-Day 1: Intro to 3D Slicer, loading data, visualizing basics, segmenting basics, measuring morphology (L1, L2, L3, L4, L6)
-Day 2: Advanced visualization, 3D Geometric Morphometrics tools, other advanced topics (L5, L6) 
+<img src="schedule.png">
+
+### Additional Resources
+* [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/index.html)
+* [Tutorials by the SlicerMorph](https://github.com/SlicerMorph/Tutorials/blob/main/README.md)
+* [3D Slicer Discourse Forum](https://discourse.slicer.org/)
+* There many many more tutorials available online made available by other labs.
+
 
 ### Citing 3D Slicer
 
