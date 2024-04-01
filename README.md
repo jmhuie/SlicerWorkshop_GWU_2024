@@ -20,8 +20,9 @@ After this workshop you should be familiar with how to…
 
 ### Additional Resources
 * [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/index.html)
-* [Tutorials by the SlicerMorph](https://github.com/SlicerMorph/Tutorials/blob/main/README.md)
 * [3D Slicer Discourse Forum](https://discourse.slicer.org/)
+* [Tutorials by the SlicerMorph](https://github.com/SlicerMorph/Tutorials/blob/main/README.md)
+* [Learn more about SlicerMorph](https://github.com/SlicerMorph)
 * There many many more tutorials available online made available by other labs.
 
 
