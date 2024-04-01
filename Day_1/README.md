@@ -42,10 +42,8 @@ A list of built-in Slicer modules, their documentation, and a brief description 
 * [Lights](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Lighting/Lights.md): The Lights module in the Sandbox extension provides more options for editing the lighting in the 3D view.
 * [Animator Tutorial](https://github.com/SlicerMorph/Tutorials/blob/main/Animator/README.md): The Animator module in the SlicerMorph extension helps create and export simple animations that involve rotating a volume, ROI cropping, and altering rendering properties.
 
-[Turtle Dataset](https://gwu.box.com/s/3lr8n1ceqp0c4asz88j5o98r0pesvurc)
-
 ### Segmentation 
-* [Segment Editor Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation)
+* [Segment Editor Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation): This tutorial provides details about the different segmentation data formats, and a general guide on how to use the different segmentation tools.
 
 ### Measuring Morphology
 * [Intro to Markups](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_1): This is an introduction to the Markups module which can be used to take linear measurements in the 2D or 3D views
