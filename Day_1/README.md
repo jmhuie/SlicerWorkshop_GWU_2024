@@ -51,7 +51,7 @@ A list of built-in Slicer modules, their documentation, and a brief description 
 * [SegmentGeometry](https://github.com/jmhuie/SlicerBiomech/blob/main/Tutorials/SegmentGeometry/README.md): The SegmentGeometry module in the SlicerBiomech extension (developed by yours truly) is used for calculating cross-sectional area, second moment of area, and other cross-sectional traits along the length of a segment.
 
 ### Learning Exercises
-1. Download this non-DICOM image stack of an [arboreal salamander CT scan](), unzip it and load it into 3D Slicer using the Image Stacks extension. Note that the file size is large so you must use the ROI and downsampling features.
+1. Download this non-DICOM image stack of an [arboreal salamander CT scan](https://gwu.box.com/s/ovd1yfmv56ay0za5nn553sy93y6d1kez), unzip it and load it into 3D Slicer using the Image Stacks extension. Note that the file size is large so you must use the ROI and downsampling features.
 2. Download this DICOM data set of a [turtle skull](https://gwu.box.com/s/3lr8n1ceqp0c4asz88j5o98r0pesvurc), unzip it and load it into 3D Slicer. Generate a 3D rendering a play around with the settings to see if you can visualize both both and soft tissue.
 3. With either data set, follow the Animator module tutorial and see if you can create a video with your volume rendering.
 4. Work through the Segment Editor tutorial using the sample data, then see if you can use those tools to separate out the bones in the turtle data set or the salamander data set.
