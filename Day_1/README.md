@@ -48,6 +48,9 @@ A list of built-in Slicer modules, their documentation, and a brief description 
 * [Segment Editor Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation)
 
 ### Measuring Morphology
+* [Intro to Markups](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_1): This is an introduction to the Markups module which can be used to take linear measurements in the 2D or 3D views
+* [Segment Statistics](https://slicer.readthedocs.io/en/v4.11/user_guide/modules/segmentstatistics.html): This is a module for the calculation of statistics related to the structure of segmentations, such as volume, surface area, mean intensity, and various other metrics for each segment.
+* [SegmentGeometry](https://github.com/jmhuie/SlicerBiomech/blob/main/Tutorials/SegmentGeometry/README.md): The SegmentGeometry module in the SlicerBiomech extension (developed by yours truly) is used for calculating cross-sectional area, second moment of area, and other cross-sectional traits along the length of a segment.
 
 ### Learning Exercises
 1. Download this non-DICOM image stack of an [arboreal salamander CT scan](), unzip it and load it into 3D Slicer using the Image Stacks extension. Note that the file size is large so you must use the ROI and downsampling features.
