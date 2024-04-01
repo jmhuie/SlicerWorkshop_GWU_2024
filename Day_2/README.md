@@ -1,5 +1,12 @@
 # Day 2 Contents
 
+### Learning Objectives
+1. Visualize 3D data and generate graphics 
+2. Analyze and measure morphology 
+3. Use SlicerMorph for 3D geometric morphometrics 
+4. Utilize resources to keep learning about 3D Slicer
+
+
 ### More Advanced Rendering Tools
 * [Colorize Volume](https://github.com/SlicerMorph/Tutorials/tree/main/ColorizeVolume): allows the volume rendering of multiple segmented structures based on segment colors
 * Animator

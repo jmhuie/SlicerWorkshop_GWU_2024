@@ -1,5 +1,12 @@
 # Day 1 Contents
 
+### Learning Objectives
+1. Import CT scans from image stacks 
+2. Visualize 3D data and generate graphics 
+3. Segment CT scans and generate models 
+4. Analyze and measure morphology 
+
+
 **GETTING STARTED WITH SLICER**
 
 * [Introduction to Slicer - Official Slicer Documentation](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html)
