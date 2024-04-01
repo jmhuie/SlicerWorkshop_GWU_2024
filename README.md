@@ -16,7 +16,7 @@ After this workshop you should be familiar with how to…
 6. Utilize resources to keep learning about 3D Slicer
 
 ### Schedule 
-<img src="schedule.png">
+<img src="Schedule.png">
 
 ### Additional Resources
 * [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/index.html)
