@@ -21,10 +21,11 @@
 
 ### SlicerMorph Landmarking Tools 
 * [Patch Semilandmarks Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/CreateSemiLMPatches/README.md): The CreateSemiLMPatches module can be used to create patches of semilandmarks based on fixed landmarks. 
-* [Pseudolandmarks](https://github.com/SlicerMorph/Tutorials/tree/main/PseudoLMGenerator): The PseudoLMGenerator module can be used to create semilandmarks when no fixed landmarks exist. 
+* [Pseudolandmarks Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/PseudoLMGenerator): The PseudoLMGenerator module can be used to create semilandmarks when no fixed landmarks exist. 
 * [Selecting and editing markups](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor): This tutorial demonstrates how select whole regions of landmarks using a curve.
 * [Merge Landmarks](https://github.com/SlicerMorph/Tutorials/blob/main/MergeMarkups/README.md): The MergeMarkups module can be used to combine separate curves, as well as fixed and semi landmarks into a single file.
-* [Transferring Landmarks with ALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/ALPACA/README.md): The ALPACA module can be used to transfer the landmarks from one model to another.
+* [Transferring Patch Landmarks] (https://github.com/SlicerMorph/SlicerMorph/blob/23d21fd9f8d09c3e0a4402ea58fba9f0352217c8/Docs/ProjectSemiLM/README.md): ProjectSemiLM module can be used to transfer patch landmarks but requires fixed references for every specimen.
+* [Transferring Landmarks with ALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/ALPACA/README.md): The ALPACA module can be used to transfer the landmarks from one model to another without any fixed references.
 * [Transferring Landmarks with MALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/MALPACA/README.md): MALPACA expands the utility of ALPACA by taking advantage of more reference models
 
 
