@@ -51,6 +51,7 @@ A list of built-in Slicer modules, their documentation, and a brief description 
 
 ### Segmentation 
 * [Segment Editor Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation): This tutorial provides details about the different segmentation data formats, and a general guide on how to use the different segmentation tools.
+* [Segmentation Recipes](https://lassoan.github.io/SlicerSegmentationRecipes/): This is a collection of segmentation recipes from the Perk Lab. They're mostly for medical use cases but may be broadly applicable.
 
 ### Measuring Morphology
 * [Intro to Markups](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_1): This is an introduction to the Markups module which can be used to take linear measurements in the 2D or 3D views
